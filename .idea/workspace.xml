@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e086b7d-c0ca-4df6-ac57-173563c27081" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Screenshot-2018-5-31 SMsquare Infosolutions .png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="123" column="78" selection-start-line="123" selection-start-column="78" selection-end-line="123" selection-end-column="78" />
+            <state relative-caret-position="398">
+              <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -118,7 +118,7 @@
       <updated>1527595296081</updated>
       <workItem from="1527595297816" duration="1803000" />
       <workItem from="1527656099084" duration="88000" />
-      <workItem from="1527793296271" duration="1182000" />
+      <workItem from="1527793296271" duration="1444000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1527793418496</created>
@@ -162,11 +162,32 @@
       <option name="project" value="LOCAL" />
       <updated>1527794426366</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix">
+      <created>1527794485635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527794485635</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix">
+      <created>1527794576738</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527794576738</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix">
+      <created>1527794669042</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527794669042</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3073000" />
+    <option name="totallyTimeSpent" value="3335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="-11" width="1307" height="780" extended-state="6" />
@@ -214,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="123" column="78" selection-start-line="123" selection-start-column="78" selection-end-line="123" selection-end-column="78" />
+        <state relative-caret-position="398">
+          <caret line="138" column="12" selection-start-line="138" selection-start-column="12" selection-end-line="138" selection-end-column="12" />
         </state>
       </provider>
     </entry>
