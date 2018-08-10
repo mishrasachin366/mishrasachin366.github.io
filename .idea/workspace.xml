@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e086b7d-c0ca-4df6-ac57-173563c27081" name="Default" comment="fix">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mishrasachin366.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mishrasachin366.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -40,19 +43,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="2" />
-          <entry key="html" value="416" />
+          <entry key="html" value="766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="2" />
-          <entry key="HTML" value="416" />
+          <entry key="HTML" value="766" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.test" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
+          <entry key="CSS" value="2" />
           <entry key="HTML" value="1" />
         </counts>
       </usages-collector>
@@ -63,7 +66,7 @@
       <usages-collector id="statistics.php.composer.actions" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
+          <entry key="css" value="2" />
           <entry key="html" value="1" />
         </counts>
       </usages-collector>
@@ -74,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="146" column="92" selection-start-line="146" selection-start-column="92" selection-end-line="146" selection-end-column="92" />
+            <state relative-caret-position="-900">
+              <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -90,7 +93,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -105,6 +120,7 @@
       <list>
         <option value="$USER_HOME$/Downloads/brog-creative-personal-template.bitballoon.com/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -152,6 +168,11 @@
               <item name="mishrasachin366.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mishrasachin366.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mishrasachin366.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mishrasachin366.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -162,6 +183,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Help_Neos" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.breadcrumbs" />
@@ -193,7 +215,7 @@
       <workItem from="1527793296271" duration="2874000" />
       <workItem from="1530126552553" duration="395000" />
       <workItem from="1533840948030" duration="3505000" />
-      <workItem from="1533875832096" duration="9522000" />
+      <workItem from="1533875832096" duration="12477000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1527793418496</created>
@@ -461,11 +483,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533890781751</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="fix">
+      <created>1533890903684</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533890903684</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18187000" />
+    <option name="totallyTimeSpent" value="21142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -527,10 +556,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="146" column="92" selection-start-line="146" selection-start-column="92" selection-end-line="146" selection-end-column="92" />
+        <state relative-caret-position="-900">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
